@@ -3,7 +3,7 @@ import TestimonialCards from '../components/TestimonialCards'
 
 const stories = [
   {
-    name: 'Kate',
+    name: 'Kwesi',
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=300&q=80',
     story: 'After completing hairdressing training, Sarah joined SheStyle Hub Salon and gained professional experience, income, and confidence as she prepared for her future business.',
     skills: 'Braiding, styling, client care',
@@ -12,7 +12,7 @@ const stories = [
   {
     name: 'Mary Asare',
     image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80',
-    story: 'Mina found stable work and mentorship at SheStyle Hub Salon, which helped her turn her training into a long-term career path.',
+    story: 'Hannah found stable work and mentorship at SheStyle Hub Salon, which helped her turn her training into a long-term career path.',
     skills: 'Natural hair care, treatment services',
     goal: 'Become a senior stylist',
   },
