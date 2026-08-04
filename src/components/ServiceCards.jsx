@@ -18,7 +18,7 @@ export default function ServiceCards({ services }) {
             <h3 className="text-xl font-semibold text-slate-900">{service.title}</h3>
             <p className="mt-3 text-sm leading-7 text-slate-600">{service.description}</p>
             <a href="/contact" className="mt-5 inline-flex items-center gap-2 text-sm font-semibold text-brand-dark">
-              Learn more <ArrowRight size={16} />
+              Learn More <ArrowRight size={16} />
             </a>
           </div>
         </motion.article>
